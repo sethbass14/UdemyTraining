@@ -25,4 +25,5 @@ func main() {
 	fmt.Println(p1.Last)
 	fmt.Println(p1.Age)
 	fmt.Printf("%T \n", p1)
+	// fmt.Println(string(json.Marshal(bs)))
 }
